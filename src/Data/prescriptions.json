@@ -1,0 +1,604 @@
+[
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 1,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "111 Walnut St, Philadelphia, PA 19106",
+      "phone": "222-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 1,
+      "address": "111 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-123-3344"
+    },
+    "startDate": "01/01/2017",
+    "endDate": "01/30/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 2,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "333-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 1,
+      "address": "111 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-123-3344"
+    },
+    "startDate": "02/01/2017",
+    "endDate": "02/28/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 3,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "333-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 1,
+      "address": "111 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-123-3344"
+    },
+    "startDate": "03/01/2017",
+    "endDate": "03/30/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 4,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "333-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "04/01/2017",
+    "endDate": "04/30/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 5,
+    "strength": 10,
+    "provider": {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "id": 4,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "333-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "05/01/2017",
+    "endDate": "05/30/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 6,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "333-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "06/01/2017",
+    "endDate": "06/30/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 7,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "333-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "07/01/2017",
+    "endDate": "07/30/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 8,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "333-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "08/01/2017",
+    "endDate": "08/30/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 9,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "333-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "09/01/2017",
+    "endDate": "09/30/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 10,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "509-867-5309"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "10/01/2017",
+    "endDate": "10/30/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 11,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "333-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "11/01/2017",
+    "endDate": "11/30/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 12,
+    "strength": 10,
+    "provider": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1,
+      "address": "333 Walnut St, Philadelphia, PA 19106",
+      "phone": "333-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "12/01/2017",
+    "endDate": "12/30/2017"
+  },
+  {
+    "name": "morphine",
+    "type": "opioid",
+    "id": 13,
+    "strength": 40,
+    "provider": {
+      "firstName": "Hank",
+      "lastName": "Henderson",
+      "id": 2,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "11/01/2017",
+    "endDate": "11/30/2017"
+  },
+  {
+    "name": "morphine",
+    "type": "opioid",
+    "id": 14,
+    "strength": 40,
+    "provider": {
+      "firstName": "Hank",
+      "lastName": "Henderson",
+      "id": 2,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "12/01/2017",
+    "endDate": "12/30/2017"
+  },
+  {
+    "name": "morphine",
+    "type": "opioid",
+    "id": 15,
+    "strength": 40,
+    "provider": {
+      "firstName": "Hank",
+      "lastName": "Henderson",
+      "id": 2,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "10/01/2017",
+    "endDate": "10/30/2017"
+  },
+  {
+    "name": "diazepam",
+    "type": "benzo",
+    "id": 16,
+    "provider": {
+      "firstName": "Hank",
+      "lastName": "Henderson",
+      "id": 2,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "rite aid",
+      "id": 3,
+      "address": "664 Arch St, Philadelphia, PA 19106",
+      "phone": "555-234-3344"
+    },
+    "startDate": "08/01/2017",
+    "endDate": "10/30/2017"
+  },
+  {
+    "name": "diazepam",
+    "type": "benzo",
+    "id": 17,
+    "provider": {
+      "firstName": "Hank",
+      "lastName": "Henderson",
+      "id": 2,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "rite aid",
+      "id": 3,
+      "address": "664 Arch St, Philadelphia, PA 19106",
+      "phone": "555-234-3344"
+    },
+    "startDate": "05/01/2017",
+    "endDate": "09/30/2017"
+  },
+  {
+    "name": "diazepam",
+    "type": "benzo",
+    "id": 18,
+    "provider": {
+      "firstName": "Hank",
+      "lastName": "Henderson",
+      "id": 2,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "rite aid",
+      "id": 3,
+      "address": "664 Arch St, Philadelphia, PA 19106",
+      "phone": "555-234-3344"
+    },
+    "startDate": "02/01/2017",
+    "endDate": "04/30/2017"
+  },
+  {
+    "name": "phentermine hcl",
+    "type": "stim",
+    "id": 19,
+    "provider": {
+      "firstName": "Hank",
+      "lastName": "Henderson",
+      "id": 2,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "rite aid",
+      "id": 3,
+      "address": "664 Arch St, Philadelphia, PA 19106",
+      "phone": "555-234-3344"
+    },
+    "startDate": "01/01/2017",
+    "endDate": "01/15/2017"
+  },
+  {
+    "name": "phentermine hcl",
+    "type": "stim",
+    "id": 20,
+    "provider": {
+      "firstName": "Hank",
+      "lastName": "Henderson",
+      "id": 2,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "rite aid",
+      "id": 3,
+      "address": "664 Arch St, Philadelphia, PA 19106",
+      "phone": "555-234-3344"
+    },
+    "startDate": "03/01/2017",
+    "endDate": "03/15/2017"
+  },
+  {
+    "name": "exalgo",
+    "type": "opioid",
+    "strength": 70,
+    "id": 21,
+    "provider": {
+      "firstName": "Hank",
+      "lastName": "Henderson",
+      "id": 2,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-4455"
+    },
+    "pharmacy": {
+      "storeName": "rite aid",
+      "id": 3,
+      "address": "664 Arch St, Philadelphia, PA 19106",
+      "phone": "555-234-3344"
+    },
+    "startDate": "10/01/2017",
+    "endDate": "10/15/2017"
+  },
+  {
+    "name": "hydrocodone",
+    "type": "opioid",
+    "strength": 15,
+    "id": 22,
+    "provider": {
+      "firstName": "Samuel",
+      "lastName": "Thompson",
+      "id": 3,
+      "address": "600 Arch St, Philadelphia, PA 19106",
+      "phone": "267-941-6800"
+    },
+    "pharmacy": {
+      "storeName": "rite aid",
+      "id": 3,
+      "address": "664 Arch St, Philadelphia, PA 19106",
+      "phone": "555-234-3344"
+    },
+    "startDate": "10/08/2017",
+    "endDate": "10/30/2017"
+  },
+  {
+    "name": "hydrocodone",
+    "type": "opioid",
+    "strength": 15,
+    "id": 23,
+    "provider": {
+      "firstName": "Samuel",
+      "lastName": "Thompson",
+      "id": 3,
+      "address": "600 Arch St, Philadelphia, PA 19106",
+      "phone": "267-941-6800"
+    },
+    "pharmacy": {
+      "storeName": "safeway pharmacy",
+      "id": 4,
+      "address": "2522 Foulk Rd, Wilmington, DE 19810",
+      "phone": "302-475-8803"
+    },
+    "startDate": "10/08/2017",
+    "endDate": "10/30/2017"
+  },
+  {
+    "name": "hydrocodone",
+    "type": "opioid",
+    "strength": 15,
+    "id": 24,
+    "provider": {
+      "firstName": "Samuel",
+      "lastName": "Thompson",
+      "id": 3,
+      "address": "600 Arch St, Philadelphia, PA 19106",
+      "phone": "267-941-6800"
+    },
+    "pharmacy": {
+      "storeName": "safeway pharmacy",
+      "id": 5,
+      "address": "1632 Kings Hwy N, Cherry Hill, NJ 08034",
+      "phone": "856-470-1213"
+    },
+    "startDate": "10/08/2017",
+    "endDate": "10/30/2017"
+  },
+  {
+    "name": "hydrocodone",
+    "type": "opioid",
+    "strength": 15,
+    "id": 25,
+    "provider": {
+      "firstName": "Samuel",
+      "lastName": "Thompson",
+      "id": 3,
+      "address": "600 Arch St, Philadelphia, PA 19106",
+      "phone": "267-941-6800"
+    },
+    "pharmacy": {
+      "storeName": "safeway pharmacy",
+      "id": 6,
+      "address": "444 WMC Dr #116, Westminster, MD 21158",
+      "phone": "410-871-1203"
+    },
+    "startDate": "10/08/2017",
+    "endDate": "10/30/2017"
+  },
+  {
+    "name": "adderall",
+    "type": "stim",
+    "id": 26,
+    "provider": {
+      "firstName": "Cheryl",
+      "lastName": "Smith",
+      "id": 5,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-1234"
+    },
+    "pharmacy": {
+      "storeName": "rite aid",
+      "id": 3,
+      "address": "664 Arch St, Philadelphia, PA 19106",
+      "phone": "555-234-3344"
+    },
+    "startDate": "02/15/2017",
+    "endDate": "03/30/2017"
+  },
+  {
+    "name": "adderall",
+    "type": "stim",
+    "id": 27,
+    "provider": {
+      "firstName": "Cheryl",
+      "lastName": "Smith",
+      "id": 5,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-1234"
+    },
+    "pharmacy": {
+      "storeName": "rite aid",
+      "id": 3,
+      "address": "664 Arch St, Philadelphia, PA 19106",
+      "phone": "555-234-3344"
+    },
+    "startDate": "04/01/2017",
+    "endDate": "05/15/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 28,
+    "strength": 10,
+    "provider": {
+      "firstName": "Cheryl",
+      "lastName": "Smith",
+      "id": 5,
+      "address": "444 Market St, Philadelphia, PA 19106",
+      "phone": "444-333-1234"
+    },
+    "pharmacy": {
+      "storeName": "cvs",
+      "id": 2,
+      "address": "444 Chestnut St, Philadelphia, PA 19106",
+      "phone": "111-222-3344"
+    },
+    "startDate": "10/04/2017",
+    "endDate": "11/02/2017"
+  },
+  {
+    "name": "oxycodone",
+    "type": "opioid",
+    "id": 29,
+    "strength": 10,
+    "provider": {
+      "firstName": "Samuel",
+      "lastName": "Thompson",
+      "id": 3,
+      "address": "600 Arch St, Philadelphia, PA 19106",
+      "phone": "267-941-6800"
+    },
+    "pharmacy": {
+      "storeName": "rite aid",
+      "id": 3,
+      "address": "664 Arch St, Philadelphia, PA 19106",
+      "phone": "555-234-3344"
+    },
+    "startDate": "09/28/2017",
+    "endDate": "10/26/2017"
+  }
+]
